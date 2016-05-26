@@ -8,9 +8,9 @@
   <packaging>pom</packaging>
   <description>Storm integration with the Mesos cluster manager</description>
   <scm>
-    <connection>scm:git:git://github.com/mesos/storm.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mesos/storm.git</developerConnection>
-    <url>https://github.com/mesos/storm</url>
+    <connection>scm:git:git://github.com/darinj/storm.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/darinj/storm.git</developerConnection>
+    <url>https://github.com/darinj/storm</url>
   </scm>
 
   <modules>
