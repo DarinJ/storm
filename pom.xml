@@ -9,7 +9,7 @@
   <description>Storm integration with the Mesos cluster manager</description>
   <scm>
     <connection>scm:git:git://github.com/darinj/storm.git</connection>
-    <developerConnection>scm:git:https://github.com/darinj/storm.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/darinj/storm/</developerConnection>
     <url>https://github.com/darinj/storm</url>
     <tag>v0.1.3</tag>
   </scm>
